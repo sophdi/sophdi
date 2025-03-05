@@ -1,6 +1,8 @@
-## Hi there 👋
+![500d05bcbc3c80383458ee245122acb8](https://github.com/user-attachments/assets/bd4a6c56-c21c-408d-99b4-a972dd2a63e7)
 
+Hi 👋, I'm sophdi
 <!--
+
 **sophdi/sophdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
